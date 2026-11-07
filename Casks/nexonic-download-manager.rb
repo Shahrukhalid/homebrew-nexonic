@@ -1,6 +1,6 @@
 cask "nexonic-download-manager" do
-  version "0.8.0"
-  sha256 "bb90d46a8d37473ef3da79e51f33f7c21ee924732c801dde7ec1952e3589c775"
+  version "0.18.1"
+  sha256 "d8a8a9ab67e2d8a5de41a15abd90d57628d56df3db183e7ea6a72eb361615852"
 
   url "https://github.com/Shahrukhalid/nexonic-download-manager/releases/download/v#{version}/NexonicDownloadManager-Mac.dmg"
   name "Nexonic Download Manager"
