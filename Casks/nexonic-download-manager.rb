@@ -1,7 +1,7 @@
 # Created with scripts/package-manifests.py
 cask "nexonic-download-manager" do
-  version "0.26.0"
-  sha256 "4717d1fa6571f55939a10754d5c05fb4aa704fc6c668f2936605a90280a2c788"
+  version "0.27.0"
+  sha256 "d115794df0e8724b035694942276cd17abef04c6641eafeed0a0c4d2ca8a9bee"
 
   url "https://github.com/Shahrukhalid/nexonic-download-manager/releases/download/v#{version}/NexonicDownloadManager-Mac.dmg"
   name "Nexonic Download Manager"
